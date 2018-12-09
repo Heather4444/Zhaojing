@@ -1,2 +1,5 @@
-we are the 
-we are the champins
+void main (){
+int a=1;
+cout<<a<<endl;
+return;
+}
